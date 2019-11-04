@@ -9,7 +9,7 @@ Si ya tienes una idea para tu aplicación, explícala brevemente. Si no es así,
 - **¿Cuál es su atractivo principal?** 
 - **¿Qué problema concreto va a resolver?** ¿Qué necesidad va a cubrir
 ## Enlaces de interés
--  [a]
+-  [a]()
 -  [s]
 -  []
 -  []
