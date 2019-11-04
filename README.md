@@ -9,13 +9,19 @@ Si ya tienes una idea para tu aplicación, explícala brevemente. Si no es así,
 - **¿Cuál es su atractivo principal?** 
 - **¿Qué problema concreto va a resolver?** ¿Qué necesidad va a cubrir
 ## Enlaces de interés
--  [a]()
--  [s]
--  []
--  []
--  []
--  []
--  []
--  []
--  []
+-  [Requerimientos que ha de cumplir la aplicación (alcance y necesidades).
+]()
+-  [Mapa de la Aplicación.]()
+-  [Diseño de la Base de Datos]()
+-  [Estructura de la Página/Aplicación/Interfaz.]()
+-  [Lenguaje del lado del servidor]()
+-  [JS Framework]()
+-  [Desarrollo Web en Entorno Cliente]()
+-  [Desarrollo Web en Entorno Servidor.]()
+-  [Despliegue de Apliaciones Web]()
+-  [Diseño de Interfaces.]()
+-  [Análisis de Usabilidad]()
+-  [Analisis de Accesibilidad]()
+-  [Enlace a la aplicación si se encuentra alojada en algún servidor]()
+
 
